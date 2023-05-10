@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yousra</h1>
+<h1 align="center">Hi 👋, I'm Yousra BOURIGA</h1>
 <h3 align="center">A passionate Software Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosrabouriga&label=Profile%20views&color=0e75b6&style=flat" alt="yosrabouriga" /> </p>
