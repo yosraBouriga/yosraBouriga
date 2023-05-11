@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Next.js and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [Still working on it](Still working on it)
+- 👨‍💻 All of my projects are available at [https://bouriga.netlify.app/](https://bouriga.netlify.app/)
 
 - 📫 How to reach me **yossra.bouriga@gmail.com**
 
