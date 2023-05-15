@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yossra.bouriga@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/5c2122db4718c](https://cvdesignr.com/p/5c2122db4718c)
+- 📄 Know about my experiences  [https://cvdesignr.com/p/5c2122db4718c](https://cvdesignr.com/p/5c2122db4718c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
